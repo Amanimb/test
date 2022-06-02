@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+body{
+    background-color: papayawhip;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    size: 60px;
+}
+li{
+    display: inline-block;
+    font-style:inherit;
+    size: 40pt;
+    margin: 50px;
+}
+ul{
+    text-align: center;
+}
+
+#vd {
+    background-color: brown;
+    margin: 0 auto;
+}
+a:hover{
+    color: gree;
+}
+.table table{
+    margin: 0 auto;
+}
+.table h3{
+    text-align: center;
+}
+
